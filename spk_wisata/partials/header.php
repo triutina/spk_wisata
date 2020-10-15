@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <blockquote>
-                      <p>Tesing dan Implementasi Sistem</p>
+                      <p>Sistem Pendukung Keputusan</p>
                     </blockquote>
                 </div>
 
